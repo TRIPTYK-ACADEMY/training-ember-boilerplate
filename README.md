@@ -2,7 +2,7 @@
 
 ## Installation
 
-`npx degit https://github.com/TRIPTYK-ACADEMY/training-ember-boilerplate.git **yourdirectory**`
+`npx degit https://github.com/TRIPTYK-ACADEMY/training-ember-boilerplate.git yourdirectory`
 
 ## This project contains:
 
