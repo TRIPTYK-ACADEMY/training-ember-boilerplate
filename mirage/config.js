@@ -1,5 +1,5 @@
 export default function () {
-  this.resource('bands');
-  this.resource('songs');
+  this.timing = 0;
+  this.resource('wine')
   this.urlPrefix = 'http://localhost:8080';
 }

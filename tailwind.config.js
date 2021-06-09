@@ -235,6 +235,7 @@ module.exports = {
       DEFAULT: '1',
     },
     fontFamily: {
+      'comfortaa': ['Comfortaa', 'cursive'],
       sans: [
         'ui-sans-serif',
         'system-ui',
